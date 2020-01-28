@@ -17,7 +17,7 @@ class Dog
   end
  
   def bark
-    @this_dogs_bark
+    puts 
   end
   
 end
